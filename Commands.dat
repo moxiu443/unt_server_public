@@ -1,0 +1,6 @@
+@SetMap PEI (or any map)
+@SetServerName (Replace with your server name)
+@SetMaxPlayers 16
+@SetPort 27015
+@SetPassword (make your own pass) (optional)
+
