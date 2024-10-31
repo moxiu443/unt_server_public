@@ -62,7 +62,7 @@ This repository provides instructions for setting up and running a private Untur
 ### Commands.dat File
 Create a `Commands.dat` file in the `C:\UnturnedServer\` directory with the following content:
   ```plaintext
-    @SetMap YourDesiredMap
+    @SetMap PEI *(or YourDesiredMap)*
     @SetServerName YourServerName
     @SetMaxPlayers 16
     @SetPort 27015
