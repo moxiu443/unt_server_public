@@ -21,7 +21,7 @@
 This repository provides instructions for setting up and running a private Unturned server on Windows 11 using SteamCMD. This setup allows you to play with friends on the PEI map.
 
 ## Requirements
-- **Windows 11** (or compatible OS)
+- **Windows 11/10** (or compatible OS)
 - **Steam** account
 - **SteamCMD** installed
 - **Nano** text editor (optional but recommended for editing configuration files)
