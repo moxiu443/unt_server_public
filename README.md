@@ -17,14 +17,6 @@
 9. [Useful Commands](#useful-commands)
 10. [Conclusion](#conclusion)
 
-### My **Current development setup:**
-
-> Memory: 16GB RAM
-
-> Graphics: GTX 1660
-
-> CPU: Ryzen 5 3600 PRO
-
 ## Introduction
 This repository provides instructions for setting up and running a private Unturned server on Windows 11 using SteamCMD. This setup allows you to play with friends on the PEI map.
 
